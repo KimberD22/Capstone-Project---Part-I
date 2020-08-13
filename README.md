@@ -40,8 +40,8 @@ This to me is the hardest part. I have a basic idea but I am sure it will change
   
 ### Projected Schedule
 Created a Project in GitHub Projects. Columns are TO DO, In Progress, Hot Issues, Ice Box, Done. 
-Project due date **Aug 29 by 11:59pm**
-Start date **Aug 8**
-Rearch, brainstorm app ideas **Aug 8-13th**
-Present README to instructors for project approval **Aug 13th**
-Start project 
+* Project due date **Aug 29 by 11:59pm**
+* Start date **Aug 8**
+* Rearch, brainstorm app ideas **Aug 8-13th**
+* Present README to instructors for project approval **Aug 13th**
+* Start project ASAP after approval 
