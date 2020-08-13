@@ -2,31 +2,46 @@
 ## Star Wars Planet Weather App (Name TBD in process) 
 
 ### Mission statement
-Which target user group is your web application for
-How this helps or adds value to your target user group
+Our mission at Galaxy Far, Far Away Forecast is giving Star Wars fans a laugh and entertaining them with cleverness, energy and whimsy.
+Providing Weather forecast for all the Planets in the Star Wars Galaxy in a fun and creative way. 
 
 ### MVP
-A description of what the project should accomplish at the bare minimum to be functional
-Which routes you would have in your application and what they would be used for
-Descriptions of which features are needed in order to accomplish the MVP of your project
-How you might accomplish or how you plan to accomplish these features
-Which TypeScript models/interfaces you will need in order to accomplish the functionality of your application while also making sure that your application is safe from unexpected input/output
+**MVP requirement = The project idea should only depend on rendering information from arrays of objects.**
+As required in the MVP, the app I will be working on will make use of the Star Wars arrays that we have been using for several class assignments.
+Using Insomnia to open the API https://swapi.dev/api/planets, I will choose what data to use from the information received to create an array.
+I will create interfaces based on my needs from the information receive and information I will add. 
+My app will access an array of Planets and the users can find weather forecast for each Planet. 
+
+The forecast will include the following:
+weather conditions;
+wind (speed and direction);
+temperature (for day and night).
+I will have a weather component.
+I will have a forecast interface.
 
 ### Wireframe of your application
-These wireframes don't have to be production grade wireframes or hi-fidelity
-They have to be a general guide as to how the components would be created and used once your project is created
-Should have a wireframe for every page you will create for your application
-NOTE: Page and components could be different. You don't need a wireframe for every component. Although it wouldn't hurt to have a description of how every component would look
+This to me is the hardest part. I have a basic idea but I am sure it will change. I still need to see what Angular Material and possibly MDBootstrap can do for my layout and design. 
 
-### Libraries (if applicable)
-Which libraries you decide to use
-The specific functionality of each library
-What each library helps accomplish/make easier. Or what problem they solve.
+### Libraries 
+* Angular Material
+  * specially designed for Angular projects
+  * easy to implement
+  * based on twelve column grid system
+  * fully responsive 
+
+### Stretch Goal Alert = Incorporating a new technology not taught in the course, Responsive mobile design
+  * MDBootstrap - world's most popular Material Design framework for building responsive, mobile-first websites & apps.
+  
 
 ### Post MVP
-What features you would like your application to have in order to go above and beyond MVP.
-How you might accomplish these features
-
+  * Make App responsive
+  * Style and Design - advance in comparison to any of my other project
+  * User-Centric - keep UI/UX in mind will creating app and styling app 
+  
 ### Projected Schedule
-You should have a descriptive and general idea of what the schedule and timeframe would be for your project.
-You should do your best to be as precise as can be giving dates and what you expect to accomplish during these dates 
+Created a Project in GitHub Projects. Columns are TO DO, In Progress, Hot Issues, Ice Box, Done. 
+Project due date **Aug 29 by 11:59pm**
+Start date **Aug 8**
+Rearch, brainstorm app ideas **Aug 8-13th**
+Present README to instructors for project approval **Aug 13th**
+Start project 
