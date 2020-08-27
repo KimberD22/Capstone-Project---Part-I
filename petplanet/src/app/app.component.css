@@ -1,0 +1,21 @@
+
+  
+
+  h1 {
+      color: white;
+  }
+
+  .jumbotron {
+    background: url("../app/images/spacedog.gif") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
