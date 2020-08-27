@@ -1,28 +1,31 @@
 export const products = [
     {
-      id:
+      id: 1,
       name: '',
       price: '',
       description: '',
       animal: ''
     },
     {
-        id:
+        id: 2,
         name: '',
         price: '',
         description: '',
         animal: ''
     },
     {
-        id:
+        id: 3,
         name: '',
         price: '',
         description: '',
-        animal: ''
-    }
-      id:
+        animal: '',
+    },
+    {
+      id: 4,
       name: '',
       price: '',
       description: '',
-      animal: ''
+      animal: '',
+    },
+
   ];
