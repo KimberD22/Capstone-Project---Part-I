@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import { products } from './products/products.component';
+
 
 @Component({
   selector: 'app-products',
@@ -8,14 +8,10 @@ import { products } from './products/products.component';
   styleUrls: ['./products.component.css']
 })
 export class ProductsComponent {
-  products = products;
+  
 
   constructor() { 
-    id: Number
-    name: String
-    price: Number
-    description: String
-    animal: String
+    
   
   
 
