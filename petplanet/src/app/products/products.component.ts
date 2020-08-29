@@ -99,6 +99,20 @@ name: 'T-Shirt Doggy Mommy',
 price: 10.00,
 description: 'fun, safe toy',
 animal: 'pet parents',
+},
+{
+  id: 14,
+name: 'Fish Tank',
+price: 40.00,
+description: 'awesome home for your fish',
+animal: 'fish',
+},
+{
+  id: 15,
+  name: 'Pocket Pet Cage',
+  price: 40.00,
+  description: 'awesome home for your pocket pet',
+  animal: 'pocket pet',
 }
 
 ];
