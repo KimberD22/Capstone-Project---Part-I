@@ -1,0 +1,11 @@
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #E6235e;
+    border-color: #39224f;
+
+}
+ .panel-primary>.panel-body {
+     display:block;
+     max-width: 100%;
+     height: 380px;
+ }

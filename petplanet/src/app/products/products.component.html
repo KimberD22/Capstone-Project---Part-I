@@ -1,24 +1,9 @@
 <P>products works!</P>
 <!---
-<h2>Products</h2>
+<ul>
+    <li *ngFor="let products of product">
+    {{products.name}}, 
+    </li>
+    </ul>
 
-<div *ngFor="let product of products">
-    <h3>
-        <a [title]="product.name + ' details'">
-            {{ product.name }}
-        </a>
-    </h3>
-
-    <p *ngIf="product.description">
-        Description: {{ product.description }}
-    </p>
-
-    <button (click)="share()">
-        Share
-    </button>
-
-    <button (click)="view()">
-        View
-    </button>
-
-</div> ---->
+-->

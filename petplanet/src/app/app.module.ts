@@ -27,7 +27,8 @@ import { RouterModule } from '@angular/router';
     BrowserModule,
     AppRoutingModule,
     RouterModule.forRoot([
-      {path:'', component: ProductsComponent },
+      { path: 'home', component: HomeComponent }  ,
+      { path:'products', component: ProductsComponent },
     ])
   ],
   providers: [],

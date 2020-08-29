@@ -47,6 +47,49 @@ export const products = [
     price: 5.00,
     description: 'fun, safe toy',
     animal: 'cat',
+},
+{
+  id: 8,
+    name: 'Pocket Pet Toy',
+    price: 3.00,
+    description: 'fun, safe toy',
+    animal: 'pocket pet',
+},
+{
+  id: 9,
+    name: 'Bird Toy',
+    price: 3.00,
+    description: 'fun, safe toy',
+    animal: 'bird',
+},
+{
+  id: 10,
+    name: 'T-Shirt Cat MoM',
+    price: 10.00,
+    description: 'fun, safe toy',
+    animal: 'pet parents',
+},
+{
+  id: 11,
+    name: 'T-Shirt Doggy Daddy',
+    price: 10.00,
+    description: 'fun, safe toy',
+    animal: 'pet parents',
+},
+{
+  id: 12,
+    name: 'T-Shirt Cat Daddy',
+    price: 10.00,
+    description: 'fun, safe toy',
+    animal: 'pet parent',
+
+},
+{
+  id: 13,
+    name: 'T-Shirt Doggy Mommy',
+    price: 10.00,
+    description: 'fun, safe toy',
+    animal: 'pet parents',
 }
 
   ];
