@@ -24,7 +24,7 @@ const routes: Routes = [
   { path: "pocketpets", component: PocketpetsComponent},
   { path: "bird", component: BirdsComponent},
   { path: "fish", component: FishComponent},
-  { path: "petparents", component: PetparentsComponent}
+  { path: "petparents", component: PetparentsComponent},
   
 ];
 

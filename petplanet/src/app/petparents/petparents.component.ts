@@ -6,7 +6,41 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./petparents.component.css']
 })
 export class PetparentsComponent implements OnInit {
+  petparentsProducts = [
 
+    
+    {
+    id: 10,
+    name: 'T-Shirt Cat MoM',
+    price: 10.00,
+    description: 'fun, safe toy',
+    animal: 'pet parents',
+    },
+    {
+    id: 11,
+    name: 'T-Shirt Doggy Daddy',
+    price: 10.00,
+    description: 'fun, safe toy',
+    animal: 'pet parents',
+    },
+    {
+    id: 12,
+    name: 'T-Shirt Cat Daddy',
+    price: 10.00,
+    description: 'fun, safe toy',
+    animal: 'pet parent',
+    
+    },
+    {
+    id: 13,
+    name: 'T-Shirt Doggy Mommy',
+    price: 10.00,
+    description: 'fun, safe toy',
+    animal: 'pet parents',
+    },
+    
+    
+    ];
   constructor() { }
 
   ngOnInit(): void {
