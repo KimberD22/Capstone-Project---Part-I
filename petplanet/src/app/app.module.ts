@@ -11,6 +11,12 @@ import { ProductsComponent } from './products/products.component';
 import { HomeComponent } from './home/home.component';
 import { ContactComponent } from './contact/contact.component';
 import { RouterModule } from '@angular/router';
+import { DogsComponent } from './dogs/dogs.component';
+import { CatsComponent } from './cats/cats.component';
+import { PocketpetsComponent } from './pocketpets/pocketpets.component';
+import { BirdsComponent } from './birds/birds.component';
+import { FishComponent } from './fish/fish.component';
+import { PetparentsComponent } from './petparents/petparents.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +27,13 @@ import { RouterModule } from '@angular/router';
     CartComponent,
     ProductsComponent,
     HomeComponent,
-    ContactComponent
+    ContactComponent,
+    DogsComponent,
+    CatsComponent,
+    PocketpetsComponent,
+    BirdsComponent,
+    FishComponent,
+    PetparentsComponent
   ],
   imports: [
     BrowserModule,
