@@ -22,7 +22,7 @@ const routes: Routes = [
   { path: "dogs", component: DogsComponent},
   { path: "cats", component: CatsComponent},
   { path: "pocketpets", component: PocketpetsComponent},
-  { path: "bird", component: BirdsComponent},
+  { path: "birds", component: BirdsComponent},
   { path: "fish", component: FishComponent},
   { path: "petparents", component: PetparentsComponent},
   
