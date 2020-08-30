@@ -4,10 +4,16 @@
 <br>
 
 <div>
-   <ul>
+   <ul> 
     <li *ngFor="let product of allProducts">
-    {{product.name}},
-    
+    {{product.name}}
     </li>
     </ul>
+
+    <ng-template>
+     <div *ngIf 
+        <h1> Product name: {{product.name}}</h1>
+        <h2> Product type: {{product.animal}}</h2>
+     </div>   
+    </ng-template>
   </div>
