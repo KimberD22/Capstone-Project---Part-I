@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { fishies } from "../fishies";
 
 @Component({
   selector: 'app-fish',

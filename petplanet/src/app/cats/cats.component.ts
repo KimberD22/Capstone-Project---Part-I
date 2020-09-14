@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { cat } from "../cat";
 
 @Component({
   selector: 'app-cats',

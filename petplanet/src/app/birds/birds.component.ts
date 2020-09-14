@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { bird } from "../bird";
 
 @Component({
   selector: 'app-birds',

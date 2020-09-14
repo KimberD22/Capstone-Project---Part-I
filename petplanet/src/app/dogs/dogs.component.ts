@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { dog } from "../dog";
 
 @Component({
   selector: 'app-dogs',

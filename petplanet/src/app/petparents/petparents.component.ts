@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { petparent } from "../petparent";
 
 @Component({
   selector: 'app-petparents',

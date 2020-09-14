@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ProductsComponent } from '../products/products.component'
+//import { ProductsComponent } from '../products/products.component'
+
+import { pocketpet } from "../pocketpet";
 
 @Component({
   selector: 'app-pocketpets',
