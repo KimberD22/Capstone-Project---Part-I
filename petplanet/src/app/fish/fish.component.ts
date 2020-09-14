@@ -7,7 +7,7 @@ import { fishies } from "../fishies";
   styleUrls: ['./fish.component.css']
 })
 export class FishComponent implements OnInit {
-  fishProducts = [
+  fishProducts: fishies[] = [
 
 
       

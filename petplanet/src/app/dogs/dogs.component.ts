@@ -9,7 +9,7 @@ import { dog } from "../dog";
 export class DogsComponent implements OnInit {
 
   
-  dogProducts = [
+  dogProducts: dog[] = [
 
     {
       id: 1,

@@ -7,7 +7,7 @@ import { petparent } from "../petparent";
   styleUrls: ['./petparents.component.css']
 })
 export class PetparentsComponent implements OnInit {
-  petparentsProducts = [
+  petparentsProducts: petparent[] = [
 
     
     {

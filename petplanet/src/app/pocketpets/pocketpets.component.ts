@@ -9,7 +9,8 @@ import { pocketpet } from "../pocketpet";
   styleUrls: ['./pocketpets.component.css']
 })
 export class PocketpetsComponent implements OnInit {
-  pocketpetProducts = [
+  
+  pocketpetProducts: pocketpet[] = [
 
     
     {

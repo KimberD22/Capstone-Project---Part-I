@@ -7,7 +7,7 @@ import { bird } from "../bird";
   styleUrls: ['./birds.component.css']
 })
 export class BirdsComponent implements OnInit {
-  birdProducts = [
+  birdProducts: bird[] = [
 
     
     {

@@ -7,7 +7,7 @@ import { cat } from "../cat";
   styleUrls: ['./cats.component.css']
 })
 export class CatsComponent implements OnInit {
-  catProducts = [
+  catProducts: cat[] = [
 
    
     {
