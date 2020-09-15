@@ -27,6 +27,8 @@ export class CatsComponent implements OnInit {
     },
     
     ];
+
+    selectedCat = true;
   constructor() { }
 
   ngOnInit(): void {

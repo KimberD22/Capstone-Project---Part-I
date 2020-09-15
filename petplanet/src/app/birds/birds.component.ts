@@ -28,6 +28,9 @@ export class BirdsComponent implements OnInit {
     
     
     ];
+
+    selectedBird = true;
+    
   constructor() { }
 
   ngOnInit(): void {

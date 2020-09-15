@@ -7,7 +7,11 @@
     <div>
         <ul> 
          <li *ngFor="let product of fishProducts">
-         {{product.name}}, {{product.price}}, {{product.description}}
+            <h2>NAME: {{product.name}}</h2>
+            <h3>PRICE: {{product.price}}</h3>
+            <h4>DESCRIPTION: {{product.description}}</h4>
          </li>
          </ul>  
+
+         <p *ngIf= "selectedFish">Bubbles!</p>
          </div>

@@ -1,4 +1,4 @@
-<h1>Polly wanna Cracker!</h1>
+<h1>Polly Wanna Cracker!</h1>
 <br>
 <br>
 <br>
@@ -6,6 +6,10 @@
 <div>
     <ul> 
      <li *ngFor="let product of birdProducts">
-     {{product.name}}, {{product.price}}, {{product.description}},
+        <h2>NAME: {{product.name}}</h2> 
+        <h3>PRICE: {{product.price}}</h3>
+        <h4>DESCRIPTION: {{product.description}}</h4>
      </li>
+
+     <p *ngIf= "selectedBird">Chirp!</p>
      </ul>

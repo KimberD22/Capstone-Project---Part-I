@@ -31,9 +31,13 @@ export class DogsComponent implements OnInit {
     
     
     ];
+  selectedDog = true;
+
   constructor() { }
 
   ngOnInit(): void {
   }
+
+  
 
 }

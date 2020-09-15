@@ -42,6 +42,8 @@ export class PetparentsComponent implements OnInit {
     
     
     ];
+
+    selectedPetParent = true;
   constructor() { }
 
   ngOnInit(): void {

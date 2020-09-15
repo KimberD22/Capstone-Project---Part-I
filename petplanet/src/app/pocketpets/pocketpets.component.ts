@@ -39,7 +39,8 @@ export class PocketpetsComponent implements OnInit {
     
     ]; 
   
-  
+ 
+
   constructor() { }
 
   ngOnInit(): void {

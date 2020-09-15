@@ -32,6 +32,8 @@ export class FishComponent implements OnInit {
    
     
     ];
+
+    selectedFish = true;
   constructor() { }
 
   ngOnInit(): void {
